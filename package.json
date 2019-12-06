@@ -1,0 +1,9 @@
+{
+  "name": "@umaar/personal-eslint-config",
+  "version": "1.0.0",
+  "description": "Personal ESLint/XO config",
+  "main": "rules.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
