@@ -12,7 +12,7 @@
 	  "unicorn/prevent-abbreviations": [
 	    "error",
 	    {
-	      "checkProperties": true,
+	      "checkProperties": false,
 	      "checkFilenames": true,
 	      "checkVariables": true
 	    }
