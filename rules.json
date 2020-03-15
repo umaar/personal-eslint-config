@@ -21,6 +21,7 @@
 	  "import/first": [
 	    "error",
 	    "absolute-first"
-	  ]
+	  ],
+	  "unicorn/string-content": 0
 	}
 }
