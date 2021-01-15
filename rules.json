@@ -23,6 +23,9 @@
 	    "error",
 	    "absolute-first"
 	  ],
-	  "unicorn/string-content": 0
+	  "unicorn/string-content": 0,
+	  "import/no-anonymous-default-export": ["error", {
+		"allowObject": true
+	  }]
 	}
 }
