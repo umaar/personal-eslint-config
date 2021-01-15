@@ -1,6 +1,6 @@
 {
   "name": "@umaar/personal-eslint-config",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Personal ESLint/XO config",
   "main": "rules.json",
   "scripts": {
